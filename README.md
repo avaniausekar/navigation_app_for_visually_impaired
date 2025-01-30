@@ -1,16 +1,15 @@
-# nlp_app
+# NLP Application for Visually Impaired
 
-A new Flutter project.
+The main aim of our application is to help partially and fully visually impaired individuals with simple tasks that, for them, might be difficult to implement. The options provided are reading a document, recitation of its summary, keeping and maintaining notes, and sending as well as receiving emails. The complete application and all its functionalities were implemented to be completely voice-navigated to ensure easy accessibility for our users.
+## Functions
+- Menu
+![image](https://github.com/user-attachments/assets/a4595fe8-0145-402c-9e44-afa7c8ddd0c6)
 
-## Getting Started
+- Notes
+![image](https://github.com/user-attachments/assets/21f63f01-c79c-4cc3-a672-7430fb863714)
 
-This project is a starting point for a Flutter application.
+- Pdf Reader & Summarizer
+![image](https://github.com/user-attachments/assets/343eca38-9987-430f-8883-cfd9f2699881)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Email Functions
+  ![image](https://github.com/user-attachments/assets/30ff29a4-6247-4423-87fc-569f6b12ab6c)
